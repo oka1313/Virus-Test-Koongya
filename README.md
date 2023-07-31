@@ -1,7 +1,12 @@
 # Virus-Test-Koongya
 
-## 배포링크
+## 배포 링크
 https://virus-koongya.netlify.app/
+
+<br>
+
+## 배포 화면
+![image](https://github.com/oka1313/Virus-Test-Koongya/assets/101691440/bb16b97a-b8d6-4226-aebc-73914b9b0991)
 
 <br>
 
